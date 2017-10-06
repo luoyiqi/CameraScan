@@ -7,3 +7,5 @@
 点击后不会自动收状态栏，需手动收缩。
 
 本人初学者，有很多地方不懂。
+
+应用地址：https://www.coolapk.com/apk/Zerocheng.CameraScan
